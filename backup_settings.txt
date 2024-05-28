@@ -1,0 +1,18 @@
+{
+    "minecraft_folder": "N:/MultiPolyMcFolders/instances/GT New Horizons/.minecraft",
+    "destination": "GTNH",
+    "to_backup": [
+        "options.txt",
+        "optionsnf.txt",
+        "localconfig.cfg",
+        "config/aroma1997/AromaBackup.cfg",
+        "config/InGameInfoXML",
+        "config/NEI",
+        "config/notfine",
+        "config/InGameInfoXML.cfg",
+        "config/MouseTweaks.cfg",
+        "config/Waila.cfg",
+        "config/WailaHarvestability.cfg",
+        "config/wailaplugins.cfg"
+    ]
+}
